@@ -1,0 +1,15 @@
+Assalamualaikum 
+Salam sejahtera semua
+
+Langkah" :>
+- pkg update && pkg upgrade
+- pkg install git
+- pkg install python
+- pkg install python2
+- pip2 install requests
+- git clone https://github.com/blztr-hax0r/CCTv
+- cd /CCTv
+- python2 blztr.py
+
+
+Donee 
